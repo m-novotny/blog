@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}{{ config.title }}{% endblock %}</title>
+    <link rel="stylesheet" href="/style.css">
+    <link rel="alternate" type="application/rss+xml" title="{{ config.title }}" href="/rss.xml">
+</head>
+<body>
+    <header>
+        <a href="{{ config.base_url }}">{{ config.title }}</a>
+        <nav>
+            <a href="{{ config.extra.github }}">github</a>
+            <a href="/rss.xml">rss</a>
+        </nav>
+    </header>
+    <main>
+        {% block content %}{% endblock %}
+    </main>
+    <footer>
+        <p>{{ config.extra.author }} — {{ config.extra.email }}</p>
+    </footer>
+</body>
+</html>
