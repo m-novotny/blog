@@ -18,3 +18,4 @@ templates/   — Tera templates
 static/      — CSS, images
 config.toml  — site config
 ```
+// 2024-06-15 — Add RSS feed configuration and metadata in config.toml
