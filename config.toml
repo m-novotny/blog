@@ -21,3 +21,4 @@ external_links_target_blank = true
 author = "Marek Novotný"
 email = "m.novotny@isaagi.cloud"
 github = "https://github.com/m-novotny"
+// 2025-01-12 — New post: constant-time comparison and why your equality operator leaks

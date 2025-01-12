@@ -4,3 +4,4 @@
 - [2024-06-15 10:20] Add RSS feed configuration and metadata in config.toml
 - [2024-08-03 14:45] New post: mlock and swap — why preventing swap is harder than it sounds
 - [2024-10-18 16:30] Add syntax highlighting theme switch and dark mode CSS
+- [2025-01-12 09:15] New post: constant-time comparison and why your equality operator leaks
