@@ -19,3 +19,4 @@ static/      — CSS, images
 config.toml  — site config
 ```
 // 2024-06-15 — Add RSS feed configuration and metadata in config.toml
+// 2025-03-22 — Update Zola to 0.19 and fix deprecated config options
