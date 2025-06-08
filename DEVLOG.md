@@ -6,3 +6,4 @@
 - [2024-10-18 16:30] Add syntax highlighting theme switch and dark mode CSS
 - [2025-01-12 09:15] New post: constant-time comparison and why your equality operator leaks
 - [2025-03-22 11:40] Update Zola to 0.19 and fix deprecated config options
+- [2025-06-08 18:55] Add Open Graph meta tags for social sharing in base template

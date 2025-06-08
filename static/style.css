@@ -83,3 +83,4 @@ a { color: var(--accent); }
 .posts li { display: flex; justify-content: space-between; padding: 0.5rem 0; border-bottom: 1px solid #16161e; }
 .posts time { color: var(--dim); font-size: 0.85rem; }
 // 2024-08-03 — New post: mlock and swap — why preventing swap is harder than it sounds
+// 2025-06-08 — Add Open Graph meta tags for social sharing in base template
