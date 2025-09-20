@@ -7,3 +7,4 @@
 - [2025-01-12 09:15] New post: constant-time comparison and why your equality operator leaks
 - [2025-03-22 11:40] Update Zola to 0.19 and fix deprecated config options
 - [2025-06-08 18:55] Add Open Graph meta tags for social sharing in base template
+- [2025-09-20 13:10] New post: ManuallyDrop and the drop order problem in Rust
