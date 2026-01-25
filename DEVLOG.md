@@ -8,3 +8,4 @@
 - [2025-03-22 11:40] Update Zola to 0.19 and fix deprecated config options
 - [2025-06-08 18:55] Add Open Graph meta tags for social sharing in base template
 - [2025-09-20 13:10] New post: ManuallyDrop and the drop order problem in Rust
+- [2026-01-25 10:05] Migrate templates to Tera inheritance and reduce duplication

@@ -22,3 +22,4 @@ author = "Marek Novotný"
 email = "m.novotny@isaagi.cloud"
 github = "https://github.com/m-novotny"
 // 2025-01-12 — New post: constant-time comparison and why your equality operator leaks
+// 2026-01-25 — Migrate templates to Tera inheritance and reduce duplication
