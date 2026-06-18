@@ -10,3 +10,4 @@
 - [2025-09-20 13:10] New post: ManuallyDrop and the drop order problem in Rust
 - [2026-01-25 10:05] Migrate templates to Tera inheritance and reduce duplication
 - [2026-04-14 15:25] Add 404 page and fix broken intra-site links
+- [2026-06-18 20:30] Update site description and add projects section to index template
